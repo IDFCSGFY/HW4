@@ -11,11 +11,11 @@ public class Main {
 
         //2
         System.out.println("#2");
-        int temperature = 0;
+        int temperature = 5;
         if (temperature < 5) {
-            System.out.println("На улице " + temperature + " градусов, нужно надеть шапку");
+            System.out.println("На улице холодно, нужно надеть шапку");
         } else {
-            System.out.println("На улице " + temperature + " можно идти без шапки");
+            System.out.println("Сегодня тепло, можно идти без шапки");
         }
 
         //3
